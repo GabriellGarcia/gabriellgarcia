@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img height="225em" src="https://i.imgur.com/baoR9zJ.gif"/>
-<div>
-
+<div align="center">
+  <img height="225em" src="https://i.imgur.com/baoR9zJ.gif" />
+</div>
 
 <!--
 **GabriellGarcia/gabriellgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

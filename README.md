@@ -9,7 +9,7 @@
 
 <p> 👨‍💻 About Me:
   
-📍 I work in the production area at the company Minsait Indra, in Spain.
+📍 I work in the production area at the company Minsait Indra, in Spain/Brazil.
 </p>
 🎯 I'm focusing on achieving my goal of becoming a Developer.
 

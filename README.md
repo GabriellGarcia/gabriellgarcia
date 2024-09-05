@@ -9,12 +9,12 @@
 
 <p> 👨‍💻 About Me:
   
-📍 I work in the production area at the company Minsait Indra, in Spain/Brazil.
+📍 I work in the production area using the Control M tool, at the company Minsait Indra, in Spain/Brazil.
 </p>
-🎯 I'm focusing on achieving my goal of becoming a Developer.
+🎯 I'm studying development.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bruno-MySQL" height="50" width="60" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg">
+  <img align="center" alt="Gabriel-MySQL" height="50" width="60" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg">
 </div>
 
 <div> <br>

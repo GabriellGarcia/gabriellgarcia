@@ -18,3 +18,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Bruno-MySQL" height="50" width="60" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg">
+</div>
+
+<div> <br>
+  
+  <a href="https://www.youtube.com/c/VidaSmart" target="_blank"><img align="center" alt="Bruno-Github" height="100" width="200" src="https://www.logo.wine/a/logo/YouTube/YouTube-Logo.wine.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruno-kyo" target="_blank"><img align="center" alt="Bruno-Github" height="100" width="200" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" target="_blank"></a>
+  <a href = "mailto:brunoribeirokyo@gmail.com"><img align="center" alt="Bruno-Github" height="100" width="200" src="https://www.logo.wine/a/logo/Google/Google-Logo.wine.svg" target="_blank"></a>

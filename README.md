@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img height="425em" src="https://i.imgur.com/baoR9zJ.gif"/>
+<img height="225em" src="https://i.imgur.com/baoR9zJ.gif"/>
 <div>
 
 

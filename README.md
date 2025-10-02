@@ -16,7 +16,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="AWS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Gabriel-AWS" height="50" width="60" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg">
   <img align="center" alt="Datadog" height="50" width="60" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg">
   <img align="center" alt="Grafana" height="50" width="60" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
   <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">

@@ -7,10 +7,10 @@
 
 <hr />
 
-<p> 👨‍💻 Sobre Mim:
+<p> 👨‍💻 About Me:
   
-📍 Trabalho na área de Observabilidade / SRE.  
-🎯 Estou estudando tecnologia.
+📍 I work in the Observability / Production SRE area.
+🎯 I'm continuously studying technology to improve my skills.
 </p>
 
 <div style="display: inline_block"><br>

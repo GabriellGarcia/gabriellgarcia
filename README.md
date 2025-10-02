@@ -10,6 +10,7 @@
 <p> 👨‍💻 About Me:
   
 📍 I work in the Observability / Production SRE area.
+
 🎯 I'm continuously studying technology to improve my skills.
 </p>
 

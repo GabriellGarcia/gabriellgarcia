@@ -20,6 +20,6 @@
   <img align="center" alt="Datadog" height="50" width="60" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg">
   <img align="center" alt="Grafana" height="50" width="60" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
   <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Controlom/512/5968/5968381.png
+  <img align="ub.com/SEU_USUARIO/SEU_REPOSITORIO/assets/controlm_icon.png
 </div>
 
